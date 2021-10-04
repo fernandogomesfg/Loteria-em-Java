@@ -1,1 +1,6 @@
-O mini sistema de Loteria feito em Java
+# Loteria em Java
+Mini sistema de Loteria feito em Java
+
+## Material Usado
+- Computador
+- NetBeans IDE 8.2
